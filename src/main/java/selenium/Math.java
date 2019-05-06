@@ -8,12 +8,12 @@ public class Math {
 	}
 	
 	public int square(int n) {
-		return (n*n);
+		int square = (n*n);
+		return square;
 	}
-	
-	public int cube(int n){
-		return (n*n*n);
-	}
-	
 
+	public int cube(int n){
+		int cube = (n*n*n);
+		return cube;
+	}
 }
