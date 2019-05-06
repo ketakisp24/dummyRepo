@@ -12,7 +12,7 @@ public class Math {
 		return square;
 	}
 
-	public int cube(int n){
+	public int cube(int n) {
 		int cube = (n*n*n);
 		return cube;
 	}
